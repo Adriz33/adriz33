@@ -2,7 +2,13 @@
   <img src="https://raw.githubusercontent.com/Adriz33/adriz33/main/banner.png" alt="Adrián Peña, desarrollador web" width="100%" />
 </p>
 
-### — Sobre mí
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=500&lines=Java+%C2%B7+Spring+%C2%B7+Node.js;Webs+con+Astro+y+Tailwind;Linux+y+servidores;Aprendiendo+cada+d%C3%ADa" />
+</p>
+
+---
+
+### Sobre mí
 
 ▸ Estudiando **DAW** (Desarrollo de Aplicaciones Web)  
 ▸ Aprendiendo **Java**, **Spring** y **Node.js** en el backend  
@@ -12,7 +18,7 @@
 
 ---
 
-### — Tecnologías
+### Tecnologías
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,html,css,js,ts,astro,tailwind,mysql,linux,git,idea&theme=dark&perline=13" />
@@ -20,7 +26,7 @@
 
 ---
 
-### — Contacto
+### Contacto
 
 <p align="left">
   <a href="https://adrianpenia-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5B3A8C?style=flat-square&logo=vercel&logoColor=E6DDF0" /></a>
