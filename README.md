@@ -1,13 +1,6 @@
-<h1 align="center">Hola! Soy Adrián </h1>
-
 <p align="center">
-  <em>Estudiante de Desarrollo de Aplicaciones Web · Construyendo la web con calma y buen código</em>
+  <img src="https://raw.githubusercontent.com/Adriz33/Adriz33/main/banner.png" alt="Adrián Peña, desarrollador web" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7E57C2&center=true&vCenter=true&width=500&lines=Java+%C2%B7+Spring+%C2%B7+Node.js;Webs+con+Astro+y+Tailwind;Linux+y+servidores;Aprendiendo+cada+d%C3%ADa" />
-</p>
-
 ---
 
 ### — Sobre mí
@@ -31,10 +24,7 @@
 ### — Contacto
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/adrian-peña-gómez97">
-    <img src="https://img.shields.io/badge/LinkedIn-2E4A7A?style=flat-square&logo=linkedin&logoColor=E6DDF0" />
-  </a>
-  <a href="mailto:adriz6149@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7A1F3D?style=flat-square&logo=gmail&logoColor=E6DDF0" />
-  </a>
+  <a href="https://adrianpenia-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5B3A8C?style=flat-square&logo=vercel&logoColor=E6DDF0" /></a>
+  <a href="https://www.linkedin.com/in/adrian-pe%C3%B1a-g%C3%B3mez97"><img src="https://img.shields.io/badge/LinkedIn-2E4A7A?style=flat-square&logo=linkedin&logoColor=E6DDF0" /></a>
+  <a href="mailto:adriz6149@gmail.com"><img src="https://img.shields.io/badge/Gmail-7A1F3D?style=flat-square&logo=gmail&logoColor=E6DDF0" /></a>
 </p>
