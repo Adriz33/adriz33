@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adriz33/Adriz33/main/banner.png" alt="Adrián Peña, desarrollador web" width="100%" />
+  <img src="https://raw.githubusercontent.com/Adriz33/adriz33/main/banner.png" alt="Adrián Peña, desarrollador web" width="100%" />
 </p>
----
 
 ### — Sobre mí
 
