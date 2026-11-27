@@ -19,7 +19,7 @@
 ### ⚙️ Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,html,css,js,ts,astro,tailwind,mysql,linux,git,idea&theme=dark&perline=13" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,html,css,js,ts,astro,tailwind,mysql,linux,git,vscode,idea,webstorm&theme=dark&perline=15" />
 </p>
 
 ---
