@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adriz33/adriz33/main/banner.png" alt="Adrián Peña, desarrollador web" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=500&lines=Java+%C2%B7+Spring+%C2%B7+Node.js;Webs+con+Astro+y+Tailwind;Linux+y+servidores;Aprendiendo+cada+d%C3%ADa" />
+  <a href="https://adrianpenia-dev.vercel.app/">
+    <img src="https://raw.githubusercontent.com/Adriz33/adriz33/main/banner.png" alt="Adrián Peña, desarrollador web" width="100%" />
+  </a>
 </p>
 
 ---
