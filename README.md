@@ -8,7 +8,7 @@
 
 ---
 
-### Sobre mí
+### 👨‍💻 Sobre mí
 
 ▸ Estudiando **DAW** (Desarrollo de Aplicaciones Web)  
 ▸ Aprendiendo **Java**, **Spring** y **Node.js** en el backend  
@@ -18,7 +18,7 @@
 
 ---
 
-### Tecnologías
+### ⚙️ Tecnologías
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,html,css,js,ts,astro,tailwind,mysql,linux,git,idea&theme=dark&perline=13" />
@@ -26,7 +26,7 @@
 
 ---
 
-### Contacto
+### 🔗 Contacto
 
 <p align="left">
   <a href="https://adrianpenia-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5B3A8C?style=flat-square&logo=vercel&logoColor=E6DDF0" /></a>
