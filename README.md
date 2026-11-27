@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Adrián</h1>
+<h1 align="center">Hola! Soy Adrián </h1>
 
 <p align="center">
   <em>Estudiante de Desarrollo de Aplicaciones Web · Construyendo la web con calma y buen código</em>
